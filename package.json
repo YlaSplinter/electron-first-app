@@ -1,0 +1,24 @@
+{
+  "name": "systeminfoapp",
+  "version": "1.0.0",
+  "description": "Simple app that shows system information",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^11.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YlaSplinter/electron-first-app.git"
+  },
+  "author": "Ula Drzazga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YlaSplinter/electron-first-app/issues"
+  },
+  "homepage": "https://github.com/YlaSplinter/electron-first-app#readme"
+}
